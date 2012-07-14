@@ -1,0 +1,35 @@
+/* TEAM */
+Your title: 	Shadi Isber
+Site: 		http://thesisb.com
+Location: 	Montreal, Canada
+Twitter: 	TheSisb
+
+
+/* SITE */
+Last update: 2012/07/14 
+Standards: HTML5, CSS3
+Components: jQuery
+Software: Geany, Ubuntu, Chrome & Firefox
+
+
+/* THANKS */
+http://subtlepatterns.com/
+http://jquery.com
+Cherry Brown Filco keyboard (the best keyboard)
+Deathaddr Mouse	(the best mouse)
+
+
+/* CRITICISM SQUAD */
+Karim
+Angela
+BlaDe
+LiraNuna
+
+
+/* DISTRACTIONS */
+IRC
+Heroes of Newerth
+
+
+/* MUSIC */
+http://www.youtube.com/watch?v=00S1x6_X5As&feature=autoplay&list=ELMHOI4q6Op70&playnext=10
